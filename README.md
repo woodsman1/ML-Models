@@ -1,3 +1,1 @@
-# demopycharm
-trial repository
-only for exploring github
+# ML Models (Practice)
